@@ -53,8 +53,7 @@ public class CalculatorTest {
 	public final void testMultiple() {
 		
 		int a = 2;
-		int b = 3;
-		
+		int b = 3; 
 		Calculator cal = new Calculator();
 		int actual = cal.multiply(a, b);
 		
